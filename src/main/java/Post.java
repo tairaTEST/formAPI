@@ -6,7 +6,4 @@ public class Post<day> {
     public String surname;
     public String subscription;
     public FormDate birthday;
-    public int day;
-    public int month;
-    public int year;
 }
